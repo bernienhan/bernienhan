@@ -3,9 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=120&section=header"/>
 </div>
 
-<!-- Avatar -->
+<!-- Avatar - using capsule render for circular effect -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/155406056?v=4" width="150" style="border-radius:50%"/>
+  <a href="https://github.com/bernienhan">
+    <img src="https://github.com/bernienhan.png" width="150" height="150" style="border-radius:50%"/>
+  </a>
 </p>
 
 <!-- Title -->
@@ -28,8 +30,8 @@
 ```ts
 const bernie = {
   focus: "Full-stack Applications",
-  learning: ["System Design", "SEO", "Ads"],
-  askMeAbout: [".NET", "Next.js", "Flutter"],
+  learning: ["Devops", "Start up", "SEO", "Ads"],
+  askMeAbout: [".NET", "Nest.js", "Next.js", "Flutter", "React Native", "React.js"],
   funFact: "Build like a startup 🚀"
 };
 ```
