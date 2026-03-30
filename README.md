@@ -3,13 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=120&section=header"/>
 </div>
 
-<!-- Avatar - using capsule render for circular effect -->
-<p align="center">
-  <a href="https://github.com/bernienhan">
-    <img src="https://github.com/bernienhan.png" width="150" height="150" style="border-radius:50%"/>
-  </a>
-</p>
-
 <!-- Title -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Bernie+Nhan;Full+Stack+Developer" alt="Typing SVG" />
@@ -17,12 +10,10 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://www.facebook.com/bernienhan24"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
-  <a href="mailto:bernienhan.work@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=bernienhan&color=38bdf8&style=flat&label=Views"/>
+  <a href="https://www.facebook.com/bernienhan24"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="mailto:bernienhan.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=bernienhan&color=38bdf8&style=for-the-badge&label=Views"/>
 </p>
-
----
 
 <!-- About -->
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> About Me
