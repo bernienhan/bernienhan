@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=120&section=header"/>
 </div>
 
+<!-- Avatar -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/155406056?v=4" width="150" style="border-radius:50%"/>
+</p>
+
 <!-- Title -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Bernie+Nhan;Full+Stack+Developer" alt="Typing SVG" />
@@ -18,7 +23,7 @@
 ---
 
 <!-- About -->
-### 🚀 About Me
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> About Me
 
 ```ts
 const bernie = {
@@ -32,7 +37,7 @@ const bernie = {
 ---
 
 <!-- Tech Stack -->
-### 💻 Tech Stack
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Tech Stack
 
 <details open>
 <summary><b>Languages</b></summary>
@@ -57,7 +62,7 @@ const bernie = {
 ---
 
 <!-- GitHub Stats -->
-### 📊 GitHub Stats
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bernienhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
