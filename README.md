@@ -1,54 +1,63 @@
-# 💫 About Me:
+<!-- Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=120&section=header"/>
+</div>
 
-🔭 Working on: Full-stack applications <br>🤝 Open to: AI & scalable systems <br>🌱 Learning: System design, SEO & Ads <br>💬 Ask me: .NET, Next.js, Flutter <br>⚡ Fun fact: Build like a startup 🚀
+<!-- Title -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Bernie+Nhan;Full+Stack+Developer" alt="Typing SVG" />
+</h1>
 
-## 🌐 Socials:
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/bernienhan24) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bernienhan.work@gmail.com)
-
-# 💻 Tech Stack:
-
-<details>
-<summary><b>📋 Languages</b></summary>
-<br>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,c,cpp,java,js,ts,dart,kotlin,graphql&perline=9" />
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://www.facebook.com/bernienhan24"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
+  <a href="mailto:bernienhan.work@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=bernienhan&color=38bdf8&style=flat&label=Views"/>
 </p>
+
+---
+
+<!-- About -->
+### 🚀 About Me
+
+```ts
+const bernie = {
+  focus: "Full-stack Applications",
+  learning: ["System Design", "SEO", "Ads"],
+  askMeAbout: [".NET", "Next.js", "Flutter"],
+  funFact: "Build like a startup 🚀"
+};
+```
+
+---
+
+<!-- Tech Stack -->
+### 💻 Tech Stack
+
+<details open>
+<summary><b>Languages</b></summary>
+<p><img src="https://skillicons.dev/icons?i=cs,c,cpp,java,js,ts,dart,kotlin&perline=8" /></p>
 </details>
 
-<details>
-<summary><b>🎨 Frontend & Mobile</b></summary>
-<br>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,react,nextjs,vue,angular,svelte,flutter&perline=9" />
-</p>
+<details open>
+<summary><b>Frontend & Mobile</b></summary>
+<p><img src="https://skillicons.dev/icons?i=html,css,sass,react,nextjs,vue,angular,flutter&perline=8" /></p>
 </details>
 
-<details>
-<summary><b>⚙️ Backend & Database</b></summary>
-<br>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,nestjs,mongodb,mysql,postgres,redis,prisma,firebase,supabase&perline=11" />
-</p>
+<details open>
+<summary><b>Backend & Database</b></summary>
+<p><img src="https://skillicons.dev/icons?i=dotnet,nodejs,nestjs,express,mongodb,mysql,postgres,redis,firebase,supabase&perline=10" /></p>
 </details>
 
-<details>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,cloudflare,docker,nginx,git,github,githubactions&perline=10" />
-</p>
+<details open>
+<summary><b>Cloud & Tools</b></summary>
+<p><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,vercel,git,github,figma&perline=8" /></p>
 </details>
 
-<details>
-<summary><b>🛠️ Tools & Libraries</b></summary>
-<br>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vite,npm,redux,figma,postman,selenium&perline=6" />
-</p>
-</details>
+---
 
-# 📊 GitHub Stats:
+<!-- GitHub Stats -->
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bernienhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
@@ -56,15 +65,16 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bernienhan&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com?user=bernienhan&theme=tokyonight&hide_border=true&background=0D1117"/>
 </p>
 
-### 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=bernienhan&bg_color=1a1b27&color=628fdb&line=38bcad&point=6bbbca&area=true&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bernienhan&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true"/>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=bernienhan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=100&section=footer"/>
+</div>
