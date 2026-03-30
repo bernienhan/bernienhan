@@ -3,9 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58a6ff&height=120&section=header"/>
 </div>
 
+<!-- Background Pattern -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,19&height=2&section=header"/>
+</div>
+
 <!-- Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Bernie+Nhan;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Bernie+Nhan;Full+Stack+Developer+%F0%9F%9A%80;Building+Amazing+Products+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
 <!-- Social Badges -->
@@ -19,7 +24,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> About Me
 
 ```ts
-const bernie = {
+const bernie_nhan = {
   focus: "Full-stack Applications",
   learning: ["Devops", "Start up", "SEO", "Ads"],
   askMeAbout: [".NET", "Nest.js", "Next.js", "Flutter", "React Native", "React.js"],
@@ -27,7 +32,9 @@ const bernie = {
 };
 ```
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,24,30&height=2&section=header"/>
+</div>
 
 <!-- Tech Stack -->
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Tech Stack
@@ -52,7 +59,9 @@ const bernie = {
 <p><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,vercel,git,github,figma&perline=8&theme=dark" /></p>
 </details>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,24,30&height=2&section=header"/>
+</div>
 
 <!-- GitHub Stats -->
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
@@ -70,7 +79,9 @@ const bernie = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bernienhan&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
 </p>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,24,30&height=2&section=header"/>
+</div>
 
 <!-- Footer -->
 <div align="center">
