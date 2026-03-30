@@ -50,13 +50,14 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=bernienhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bernienhan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bernienhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bernienhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernienhan&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" height="150"/>
+</p>
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=bernienhan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bernienhan&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
 
 ### 📈 Contribution Graph
 
