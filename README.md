@@ -67,16 +67,16 @@ const bernie_nhan = {
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bernienhan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=58a6ff&title_color=58a6ff&text_color=ffffff" height="150"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bernienhan&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&layout=compact" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bernienhan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=58a6ff&title_color=58a6ff&text_color=ffffff&border_radius=15" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bernienhan&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&layout=compact&border_radius=15" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bernienhan&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+  <img src="https://streak-stats.demolab.com?user=bernienhan&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=15"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bernienhan&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bernienhan&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&radius=16"/>
 </p>
 
 <div align="center">
