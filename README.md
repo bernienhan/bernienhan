@@ -68,7 +68,7 @@ const bernie_nhan = {
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bernienhan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=58a6ff&title_color=58a6ff&text_color=ffffff&border_radius=15" height="150"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bernienhan&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&layout=compact&border_radius=15"/>
+  <img src="https://github-readme-stats-chi-lake-16.vercel.app/api/top-langs/?username=bernienhan&count_private=true&include_all_commits=true&langs_count=10&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&layout=compact&border_radius=15"/>
 </p>
 
 <p align="center">
