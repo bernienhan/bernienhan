@@ -41,7 +41,7 @@ const bernie_nhan = {
 
 <details open>
 <summary><b>Languages</b></summary>
-<p><img src="https://skillicons.dev/icons?i=cs,cpp,java,js,ts,dart,kotlin&perline=8&theme=dark" /></p>
+<p><img src="https://skillicons.dev/icons?i=cs,cpp,java,js,ts,dart&perline=8&theme=dark" /></p>
 </details>
 
 <details open>
