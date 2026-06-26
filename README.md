@@ -26,8 +26,8 @@
 ```ts
 const bernie_nhan = {
   focus: "Full-stack Applications",
-  learning: ["Devops", "Start up", "SEO", "Ads"],
-  askMeAbout: [".NET", "Nest.js", "Next.js", "Flutter", "React Native", "React.js"],
+  learning: ["Devops", "Java Spring"],
+  askMeAbout: ["React.js", "Next.js", "Flutter", "React Native", "Nest.js", "Java Spring"],
   funFact: "Build like a startup 🚀"
 };
 ```
