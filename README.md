@@ -41,7 +41,7 @@ const bernie_nhan = {
 
 <details open>
 <summary><b>Languages</b></summary>
-<p><img src="https://skillicons.dev/icons?i=cs,cpp,java,js,ts,dart&perline=8&theme=dark" /></p>
+<p><img src="https://skillicons.dev/icons?i=ts,js,dart,cs,java&perline=8&theme=dark" /></p>
 </details>
 
 <details open>
@@ -56,7 +56,7 @@ const bernie_nhan = {
 
 <details open>
 <summary><b>Cloud & Tools</b></summary>
-<p><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,vercel,git,github,figma&perline=8&theme=dark" /></p>
+<p><img src="https://skillicons.dev/icons?i=vps,azure,gcp,docker,vercel,git,github,figma&perline=8&theme=dark" /></p>
 </details>
 
 <div align="center">
