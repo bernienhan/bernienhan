@@ -41,17 +41,17 @@ const bernie_nhan = {
 
 <details open>
 <summary><b>Languages</b></summary>
-<p><img src="https://skillicons.dev/icons?i=cs,c,cpp,java,js,ts,dart,kotlin&perline=8&theme=dark" /></p>
+<p><img src="https://skillicons.dev/icons?i=cs,cpp,java,js,ts,dart,kotlin&perline=8&theme=dark" /></p>
 </details>
 
 <details open>
 <summary><b>Frontend & Mobile</b></summary>
-<p><img src="https://skillicons.dev/icons?i=html,css,sass,react,nextjs,vue,angular,flutter&perline=8&theme=dark" /></p>
+<p><img src="https://skillicons.dev/icons?i=html,css,sass,react,nextjs,vue,flutter&perline=8&theme=dark" /></p>
 </details>
 
 <details open>
 <summary><b>Backend & Database</b></summary>
-<p><img src="https://skillicons.dev/icons?i=dotnet,nodejs,nestjs,express,mongodb,mysql,postgres,redis,firebase,supabase&perline=10&theme=dark" /></p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,mysql,postgres,redis,firebase,supabase&perline=10&theme=dark" /></p>
 </details>
 
 <details open>
